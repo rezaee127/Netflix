@@ -15,6 +15,8 @@
 <br>
 <br>
 
+
+ - MVVM Architecture
  - Using Exoplayer , RecyclerView And Shared Preferences 
 
  <br>
